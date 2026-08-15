@@ -17,6 +17,21 @@ The script is released under the [MIT License](./LICENSE.md), while Microsoft Of
 
 ---
 
+## Features
+
+- Selectable Office Apps to install
+- Selectable language for Office Apps
+- Download and installs only the Apps you want
+
+#### Predefined Settings (Non modifiable)  
+- Architecture: x64  
+- Product: ProPlus2024Volume  
+- Channel: PerpetualVL2024  
+- Updates: Enabled  
+- EULA: Accepted  
+
+---
+
 ## Requirements
 
 Before proceeding, download the official **[Office Deployment Tool (ODT)](https://www.microsoft.com/en-us/download/details.aspx?id=49117)**:
