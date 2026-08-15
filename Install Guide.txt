@@ -53,7 +53,7 @@ This method uses Microsoft’s official configuration and deployment workflow.
 This option is recommended for IT administrators or advanced users who need full control over deployment settings.
 
 ------------------------------------------------------------
-Support Development
+Contributions
 ------------------------------------------------------------
 
 Paypal:
