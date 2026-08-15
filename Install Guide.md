@@ -23,7 +23,7 @@ The `setup.exe` file is required for installation, while the XML file is safe to
 
 This method allows you to interactively select which Office applications to install.
 
-1. Place `Setup Office 2024 LTSC (Run As Admin).bat` in the same directory as `Setup.exe`.
+1. Place `Setup - Office 2024 (LTSC).bat` in the same directory as `Setup.exe`.
 2. Run the batch file **as Administrator**.
 3. Select the applications to install by entering the corresponding number.  
    - Each application indicates its status as **=1 (Enabled)** or  **=0 (Disabled).**
