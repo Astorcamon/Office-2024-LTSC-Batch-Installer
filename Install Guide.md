@@ -48,7 +48,7 @@ This option is recommended for IT administrators or advanced users who need full
 
 ---
 
-## Support Development
+## Contributions
 
 <Table>
    <th>Paypal</th>
