@@ -1,12 +1,12 @@
 # Microsoft Office 2024 LTSC — Install Guide
 
-This document provides instructions for downloading, configuring, and installing Microsoft Office 2024 LTSC using either a customizable batch installer or the official Microsoft deployment method.
+This document provides instructions for downloading, configuring, and installing Microsoft Office 2024 LTSC using the Setup-Office2024-LTSC.bat installer and some alternatives.
 
 ---
 
 ## How to install - Office 2024 LTSC
 
-### Using this Script (The easiest way)
+### Using Setup-Office2024-LTSC.bat Installer (The easiest way)
 
 This method allows you to interactively select which Office applications and language to install.
 
@@ -14,13 +14,13 @@ This method allows you to interactively select which Office applications and lan
 
 1. Download and extract the files from the latest release of [Setup-Office2024-LTSC.zip](https://github.com/Astorcamon/Office-2024-LTSC-Batch-Installer/releases/latest)
 2. Download and run the official [Office Deployment Tool (ODT)](https://www.microsoft.com/en-us/download/details.aspx?id=49117)  
-3. Copy `Setup.exe` to the same folder as `Setup-Office2024-LTSC.bat`
+3. Copy `Setup.exe` to the same folder as `Setup-Office2024-LTSC.bat`.
 
 **Next steps:**
 
-1. Run `Setup-Office2024-LTSC.bat` **as Administrator**
+1. Run `Setup-Office2024-LTSC.bat` **as Administrator**.
 2. Select the applications to install by entering their number and press Enter.
-   - Each application shows its status as **=1 (Enabled)** or **=0 (Disabled).**
+   - Each application shows its status as **=1 (Enabled)** or **=0 (Disabled)**.
 3. Enter **I** to begin the installation.
 4. Select the language to install by entering its number and press Enter.
 
@@ -62,8 +62,8 @@ Learn more: https://www.officetool.plus/
 ## Contributions
 
 <Table>
-   <th>Paypal</th>
-   <th>Github</th>
+   <th>PayPal</th>
+   <th>GitHub</th>
    <th>Ko-Fi</th>
   <tr>
     <td><a href="https://www.paypal.com/donate?hosted_button_id=P2C76DEXQEEFQ"><img src="https://img.shields.io/badge/Donate-blue?style=flat&logo=paypal" width="115"/></a></td>
