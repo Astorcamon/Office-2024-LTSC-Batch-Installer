@@ -22,7 +22,7 @@ First steps:
 
 Next steps:
 
-1. Run "Setup-Office2024-LTSC.bat" as Administrator
+1. Run "Setup-Office2024-LTSC.bat" as Administrator.
 2. Select the applications to install by entering their number and press Enter.
    Each application shows its status as =1 (Enabled) or =0 (Disabled).
 3. Enter I to begin the installation.
