@@ -19,9 +19,9 @@ The script is released under the [MIT License](./LICENSE.md), while Microsoft Of
 
 ## Features
 
-- Selectable Office Apps to install
-- Selectable language for Office Apps
-- Download and installs only the Apps you want
+- Selectable Office Apps to install.
+- Selectable language for Office Apps.
+- Download and installs only the Apps you want.
 
 #### Predefined Settings (Non modifiable)  
 - Architecture: x64  
