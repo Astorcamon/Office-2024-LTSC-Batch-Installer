@@ -32,23 +32,23 @@ The script is released under the [MIT License](./LICENSE.md), while Microsoft Of
 
 ---
 
-## How to install Office
+## How to install - Office 2024 LTSC
 
-### Using this Script (The easiest way)
+### Using Setup-Office2024-LTSC.bat Installer (The easiest way)
 
 This method allows you to interactively select which Office applications and language to install.
 
 **First steps:**
 
-1. Download and extract the files from the latest release of [Setup-Office2024-LTSC.zip]([https://github.com/Astorcamon/Office-M365-Batch-Installer/releases/latest](https://github.com/Astorcamon/Office-2024-LTSC-Batch-Installer/releases/latest))
+1. Download and extract the files from the latest release of [Setup-Office2024-LTSC.zip](https://github.com/Astorcamon/Office-2024-LTSC-Batch-Installer/releases/latest)
 2. Download and run the official [Office Deployment Tool (ODT)](https://www.microsoft.com/en-us/download/details.aspx?id=49117)  
 3. Copy `Setup.exe` to the same folder as `Setup-Office2024-LTSC.bat`
 
 **Next steps:**
 
-1. Run `Setup-Office2024-LTSC.bat` **as Administrator**
+1. Run `Setup-Office2024-LTSC.bat` **as Administrator**.
 2. Select the applications to install by entering their number and press Enter.
-   - Each application shows its status as **=1 (Enabled)** or **=0 (Disabled).**
+   - Each application shows its status as **=1 (Enabled)** or **=0 (Disabled)**.
 3. Enter **I** to begin the installation.
 4. Select the language to install by entering its number and press Enter.
 
@@ -77,7 +77,7 @@ This method uses Microsoft’s official configuration and deployment workflow.
 
 Learn more: https://learn.microsoft.com/en-us/office/ltsc/2024/deploy
 
-### Using OTP (All-in-One Tool for Office)
+### Using OTP (The AIO Tool for Office)
 
 The Office Tool Plus integrates Microsoft’s official deployment workflow into a third‑party tool with a full graphical UI and more features.
 
@@ -96,8 +96,8 @@ Learn more: https://www.officetool.plus/
 ## Contributions
 
 <Table>
-   <th>Paypal</th>
-   <th>Github</th>
+   <th>PayPal</th>
+   <th>GitHub</th>
    <th>Ko-Fi</th>
   <tr>
     <td><a href="https://www.paypal.com/donate?hosted_button_id=P2C76DEXQEEFQ"><img src="https://img.shields.io/badge/Donate-blue?style=flat&logo=paypal" width="115"/></a></td>
